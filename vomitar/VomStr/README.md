@@ -5,6 +5,7 @@ Trabajo en equipo Fundamentos en Java
 - Cristian Coloma
 - Adriana Figueroa
 - Rafael Castillo
+- Michaell  
 - Jessie Uribe
 ## Actividad
 Desarrolle una aplicación para la empresa telefónica y de internet VomisTR, que necesita gestionar las atenciones de servicio al cliente vía teléfono. Debe registrar al menos:

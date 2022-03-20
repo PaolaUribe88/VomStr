@@ -3,9 +3,7 @@ Trabajo en equipo Fundamentos en Java
 ## Integrantes
 - Diego Padilla
 - Cristian Coloma
-- Adriana Figueroa
-- Rafael Castillo
-- Michaell  
+- Michaell  Geiser
 - Jessie Uribe
 ## Actividad
 Desarrolle una aplicación para la empresa telefónica y de internet VomisTR, que necesita gestionar las atenciones de servicio al cliente vía teléfono. Debe registrar al menos:
